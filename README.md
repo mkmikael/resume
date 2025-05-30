@@ -2,7 +2,7 @@
 
 A modern, responsive resume website built with React and Tailwind CSS. This project showcases my professional experience, skills, and achievements in an interactive and visually appealing way.
 
-![Resume Preview](public/resume-preview.png)
+![Resume Preview](https://mkmikael.github.io/resume/)
 
 ## 🚀 Features
 
